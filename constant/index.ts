@@ -24,7 +24,7 @@ export const NavLinks = [
   
   export const footerLinks = [
     {
-      title: 'For developers',
+      title: 'Для бизнеса',
       links: [
         'Go Pro!',
         'Explore development work',
@@ -36,7 +36,7 @@ export const NavLinks = [
       ],
     },
     {
-      title: 'Hire developers',
+      title: 'Новости',
       links: [
         'Post a job opening',
         'Post a freelance project',
@@ -44,13 +44,13 @@ export const NavLinks = [
       ],
     },
     {
-      title: 'Brands',
+      title: 'Бренды',
       links: [
-        'Advertise with us',
+        'Рекламируйте вместе с нами',
       ],
     },
     {
-      title: 'Company',
+      title: 'Состав Ассоциации',
       links: [
         'About',
         'Careers',
@@ -64,7 +64,7 @@ export const NavLinks = [
       ],
     },
     {
-      title: 'Directories',
+      title: 'Руководители',
       links: [
         'Development jobs',
         'Developers for hire',
@@ -74,7 +74,7 @@ export const NavLinks = [
       ],
     },
     {
-      title: 'Development assets',
+      title: 'Мероприятия',
       links: [
         'Code Marketplace',
         'GitHub Marketplace',
@@ -83,7 +83,7 @@ export const NavLinks = [
       ],
     },
     {
-      title: 'Development Resources',
+      title: 'Бизнес ресурсы',
       links: [
         'Freelancing',
         'Development Hiring',
