@@ -96,7 +96,7 @@ const Project = async ({ params: { id } }: { params: { id: string } }) => {
                 </Link>
                 <span className="w-full h-0.5 bg-light-white-200" />
             </section>
-
+            {/* @ts-expect-error Server Component */}
             <RelatedProjects userId={projectDetails?.createdBy?.id} projectId={projectDetails?.id} />
         </Modal>
     )
